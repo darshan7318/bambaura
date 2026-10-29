@@ -1,3 +1,4 @@
+# Fresh production rebuild trigger: npm ci followed by npm run build.
 name: Build Bambaura storefront ZIP
 
 on:
